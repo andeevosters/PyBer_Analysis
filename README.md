@@ -50,19 +50,19 @@ Urban cities had significantly higher total weekly fares than suburban and rural
 ## Summary of Recommendations
 With the intention of the analysis being to identify any potential disparities between city types, the following actions are recommended:
 
-### 1. With a bit more primary research, we can better understand supply & demand, fare discrepancies, and popular ride times.
+#### 1. With a bit more primary research, we can better understand supply & demand, fare discrepancies, and popular ride times.
 * Distance of ride by city type: how far a driver drives per ride
 * Length of ride by city type: coincides with distance to determine cost to driver
 * Rider wait time by city type: supply vs. demand
 * Total fares by driver ID: how much an average driver makes in a given timeframe
 * Total fares by day of the week: Are rides requested mostly on weekends? Never on Tuesdays? This insight could help with better planning and marketing.
 
-### 2. With secondary research to complement our primary research, we can better understand supply and demand as a way to affect pricing, marketing and recruiting.
+#### 2. With secondary research to complement our primary research, we can better understand supply and demand as a way to affect pricing, marketing and recruiting.
 * City population for cities in the datasets: supply and demand, market share
 * Share of car owners in the cities in the datasets: supply and demand of both riders and drivers
   * For example, it is likely that rural communities have more car owners per capita. So, if the desire is to market to rural residents, sell reasons NOT to drive your own car. (Skip parking fees at airports, don't drink and drive, etc.)
 
-### 3. Conduct a late-February deep-dive to understand the increase in rides across the board.
+#### 3. Conduct a late-February deep-dive to understand the increase in rides across the board.
 * (PyBer data): Did particular cities affect the overall increase in fares? 
 * (Secondary data): Based on the city results, research if there was an event or need that was geo-specific? And/or can that success be duplicated?
   
