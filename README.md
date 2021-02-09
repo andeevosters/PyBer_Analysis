@@ -44,7 +44,7 @@ Secondly, PyBer asked us to look at ride logs over a four-moth period (January t
 #### Results
 Rural fares did not see much fluctuation over the 4-month span, meanwhile suburban fares started and ended with an increase, and urban fares were a bit more frenetic across the timeframe. The obvious similarity was an increase in late February, among all the city types. 
 
-#### Takeaways
+#### Takeaway
 Urban cities had significantly higher total weekly fares than suburban and rural cities, as we first learned in the data summary. The late-February peak is worth investigating.
 
 ## Summary of Recommendations
@@ -66,5 +66,5 @@ With the intention of the analysis being to identify any potential disparities b
 * (PyBer data): Did particular cities affect the overall increase in fares? 
 * (Secondary data): Based on the city results, research if there was an event or need that was geo-specific? And/or can that success be duplicated?
   
-## Resources:
+## Resources
 Matplotlib: 3.3.2; Python: 3.7.9
